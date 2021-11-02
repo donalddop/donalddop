@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @donalddop
 - 👀 I’m interested in music, science, programming, AI, biology, psychology, astronomy and many other subjects.
 - 🌱 I’m currently learning different programming skills.
-- 💞️ I’m looking to collaborate on game development or art projects.
 - 📫 How to reach me: Shoot me an email at donald.nikkessen@gmail.com
 
 <!---
