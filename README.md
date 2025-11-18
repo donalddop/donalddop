@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @donalddop
-- 👀 I’m interested in music, science, programming, AI, biology, psychology, astronomy and many other subjects.
-- 🌱 I’m currently learning different programming skills.
-- 📫 How to reach me: Shoot me an email at donald.nikkessen@gmail.com
+- Hi, I’m @donalddop
+- I’m interested in music, science, programming, AI, biology, psychology, astronomy and many other subjects.
+- I’m currently learning different programming skills.
 
 <!---
 donalddop/donalddop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
